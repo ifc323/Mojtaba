@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>یه حرف دل...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      line-height: 2;
+      text-align: right;
+    }
+    .box {
+      max-width: 600px;
+      background: #1a1a1a;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+    h1 {
+      font-size: 1.2rem;
+      font-weight: normal;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>
+نمی‌دونم اینو می‌خونی یا نه  
+ولی اگه یه لحظه وایستی و بخونی، شاید بفهمی هنوز یه نفر هست که با خاطراتت نفس می‌کشه  
+من اون لحظه که گفتی بیا فاب بشیم، حس کردم یه چیزی تو دلم روشن شد. یه امید کوچیک، یه حس آشنا  
+گفتم باشه، چون هنوز باور داشتم یه چیزی بینمون زنده‌ست  
+ولی بعد گفتی قراره بیاد خواستگاریت  
+راستش نمی‌دونم اون حرفت جدی بود یا فقط واسه اینکه منو یه جور رد کنی  
+اگه فقط می‌خواستی منو رد کنی، کاش یه جور دیگه می‌گفتی  
+چون اینجوری، یه چیزی ته دل آدم می‌مونه که هیچ‌وقت نمی‌ره  
+تو اون آدمی بودی که وقتی اسمت می‌اومد، ضربان قلبم فرق می‌کرد  
+هنوزم گاهی بی‌هوا می‌رم سراغ خاطراتمون، نه واسه اینکه برگردی، فقط واسه اینکه بدونی یه نفر هنوزم با لبخندت زندگی می‌کرد  
+اگه یه ذره از اون روزا توی دلت مونده، اگه یه لحظه دلت لرزید، فقط یه پیام بده  
+نه برای برگشت، فقط برای اینکه بدونم هنوز یه جایی توی دلت هستم
+    </h1>
+  </div>
+</body>
+</html>
